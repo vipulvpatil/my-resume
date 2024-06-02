@@ -66,8 +66,8 @@ theme = "adritian-free-hugo-theme"
   homepageExperienceCount = 6
   
   [params.logo]
-    text1 = "Cool"
-    text2 = "Name"
+    text1 = "Vipul"
+    text2 = "Patil"
 
   [params.footer]
       copyright = "© Adritian. Free Hugo theme by Adrián Moreno Peña."
