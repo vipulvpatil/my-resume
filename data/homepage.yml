@@ -82,7 +82,7 @@ experience:
     URL: "https://www.linkedin.com/in/vipulvpatil/"
   button2:
     icon: "icon-profile-fill"
-    btnText: "Download Resume"
+    btnText: "Resume"
     URL: "#"
   button3:
     icon: "icon-arrow-right"

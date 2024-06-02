@@ -1,4 +1,4 @@
-baseURL = 'https://vipulvpatil.github.io/'
+baseURL = 'https://vipulvpatil.github.io/my-resume/'
 languageCode = "en-us"
 title = 'Vipul Patil'
 theme = "adritian-free-hugo-theme"
