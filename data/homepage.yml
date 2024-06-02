@@ -4,7 +4,7 @@ showcase:
   title: "Hi, I’m Vipul Patil."
   subtitle: "Go / Backend Engineer"
   description: >
-    Based in Bengaluru 🇮🇳, I am a Software Engineering specializing in Distributed systems. My last role was with Coinbase spearheading the backend efforts on <a target='_blank' href='https://commerce.coinbase.com/'>Coinbase Commerce</a>.<br>I have a diverse history having started my programming journey as a Flash Game Programmer(2008). Before I reached my current destination of Backend programming in Go, I visited multiple stops like iOS Programmer (2013) and Fullstack Engineer (2016). As a Senior Software Engineer, my programming ideology is guided by three basic principles, readability, maintanability and extensibility.
+    Based in Bengaluru 🇮🇳, I am a Software Engineering specializing in Distributed systems. My last role was with Coinbase spearheading the backend efforts on <a target='_blank' href='https://commerce.coinbase.com/'>Coinbase Commerce</a>.<br>I have a diverse programming history having started my journey as a Flash Game Programmer in 2008. Before I reached my current destination of Backend programming in Go, I visited multiple stops like iOS Programmer (2013) and Fullstack Engineer (2016). As a Senior Software Engineer, my programming ideology is guided by three basic principles, readability, maintanability and extensibility.
   image:
     x: "images/showcase/showcase.png"
     _2x: "images/showcase/showcase@2x.png"
@@ -18,34 +18,19 @@ showcase:
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/adrianmoreno/"
+      URL: "https://www.linkedin.com/in/vipulvpatil/"
 
     - icon: "github"
-      URL: "https://github.com/zetxek"
+      URL: "https://github.com/vipulvpatil"
 
     - icon: "twitter"
-      URL: "https://twitter.com/zetxek"
-
-    - icon: "dribbble"
-      URL: "#"
-
-    - icon: "behance"
-      URL: "#"
-
-    - icon: "youtube"
-      URL: "#"
+      URL: "https://twitter.com/vipulvpatil"
 
     - icon: "instagram"
-      URL: "https://www.instagram.com/zetxek/"
+      URL: "https://www.instagram.com/vipulvpatil/"
 
     - icon: "facebook"
-      URL: "https://www.facebook.com/zetxek/"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+      URL: "https://www.facebook.com/vipulvpatil/"
 
 # about
 about:
@@ -53,20 +38,21 @@ about:
   title: "Who am I?"
   content: >
     <p class="lead">
-      Here you can add some information about you. A small excerpt that describes 
-      your experience, for example.   
+      I am an engineer focussed on building Products. I enjoy finding technological solutions for real world problem. My colleagues have describe me as insightful, relentless and full of postive energy. I am a thought leader capable of finding solutions to a wide range of problems with my critical thinking and technical expertise. I am guided by three simple values, clear communication, postive energy and continuous learning.
       </p>
       <p class="lead">
-      You explain something about your academic/study background, as well as your
-      preferred areas of work. Think of this area as context-setting for the experience
-      that you will describe below. Why did you change jobs? What drove you to take a 
-      new gig? Even if you are not looking for a job, it's a good way to hint about
-      what kind of projects you are interested in.
+      Clear communication is a game changer for most teams. I always make a concious effort to create a trusting relationship with my team. This fosters a culture of candid conversation and shared outcomes. A culture built on clear communication exponentially increases team efficiency.
+      </p>
+      <p class="lead">
+      Postive energy has helped me turn difficult situations into bonding sessions. It has made me affable, solution oriented and a delight to work with. Being infectious, Positive energy tends to elevate the overall performance of a team.
+      </p>
+      <p class="lead">
+      Continuous learning is an essential ingredient for growth. Mentors, mentees, peers, industry experts and kind strangers on the internet together have provided me with a wide variety of learning opportunities. I have and continue to tap into this knowledge stream to further my personal and professional aspirations.
     </p>
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/in/adrianmoreno/"
+    URL: "https://www.linkedin.com/in/vipulvpatil/"
   image:
     x: "images/who-am-i/user-picture.png"
     _2x: "images/who-am-i/user-picture@2x.png"
