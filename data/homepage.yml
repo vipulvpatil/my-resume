@@ -38,7 +38,7 @@ about:
   title: "Who am I?"
   content: >
     <p class="lead">
-      I am an engineer focussed on building Products. I enjoy finding technological solutions for real world problem. My colleagues have describe me as insightful, relentless and full of postive energy. I am a thought leader capable of finding solutions to a wide range of problems with my critical thinking and technical expertise. I am guided by three simple values, clear communication, postive energy and continuous learning.
+      I am an engineer focussed on building products. I enjoy finding technological solutions for real world problem. My colleagues have describe me as insightful, relentless and full of postive energy. I am a thought leader capable of finding solutions to a wide range of problems with my critical thinking and technical expertise. I am guided by three simple values, clear communication, postive energy and continuous learning.
       </p>
       <p class="lead">
       Clear communication is a game changer for most teams. I always make a concious effort to create a trusting relationship with my team. This fosters a culture of candid conversation and shared outcomes. A culture built on clear communication exponentially increases team efficiency.
@@ -62,24 +62,24 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "University of Life"
-      year: "2012-2017"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+    - university: "Ramrao Adik Institute of Technology"
+      year: "2004-2008"
+      degree: "Bachelor of Engineering, Computer Engineering"
 
-    - university: "High School of Hard Knocks"
-      year: "2009-2012"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+    - university: "Ramnivas Ruia Junior College"
+      year: "2002-2004"
+      degree: "HSC (Higher Secondary Certificate), Science"
 
 # experience
 experience:
   enable: true
   title: "Experience"
   description: >
-    Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives.
+    Over 15+ years of experience working with companies from San Francisco, California to Mumbai, India. I engineer digital applications to solve  real world problems.
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/adrianmoreno/"
+    URL: "https://www.linkedin.com/in/vipulvpatil/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
